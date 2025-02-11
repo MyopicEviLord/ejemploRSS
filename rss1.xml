@@ -14,21 +14,21 @@
     </image>
     <item>
         <titulo>Animación japonesa en España</titulo>
-        <link>http://localhost/proyecto_villa_santos/html/catalogo-anime-japon.html</link>
+        <link>http:https://myopicevilord.github.io/ejemploRSS/html/catalogo-anime-japon.html</link>
         <description>Catálogo completo con los estrenos de anime originarios de Japón.</description>
         <language>es-es</language>
         <enclosure url="https://myopicevilord.github.io/ejemploRSS/imagenes/abc/A/aeon-flux.jpg" length="48491" type="image/jpeg"/>
     </item>
      <item>
         <titulo>Animación china en España</titulo>
-        <link>http://localhost/proyecto_villa_santos/html/catalogo-anime-china.html</link>
+        <link>https://myopicevilord.github.io/ejemploRSS/html/catalogo-anime-china.html</link>
         <description>Catálogo completo con los estrenos de anime originarios de China.</description>
         <language>es-es</language>
         <enclosure url="https://myopicevilord.github.io/ejemploRSS/imagenes/abc/A/the-girl-downstairs.png" length="48491" type="image/jpeg"/>
     </item>
          <item>
         <titulo>Sobre AnimeLog</titulo>
-        <link>http://localhost/proyecto_villa_santos/html/inscripcion.html</link>
+        <link>https://myopicevilord.github.io/ejemploRSS/html/inscripcion.html</link>
         <description>Información básica y formulario de inscripción de AnimeLog.</description>
         <language>es-es</language>
         <enclosure url="https://myopicevilord.github.io/ejemploRSS/imagenes/logotipo-transparente-negro.png" length="48491" type="image/jpeg"/>
