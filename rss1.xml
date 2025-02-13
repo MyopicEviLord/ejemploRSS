@@ -19,13 +19,13 @@
         <enclosure url="https://myopicevilord.github.io/ejemploRSS/imagenes/abc/A/aeon-flux.jpg" length="48491" type="image/jpeg"/>
     </item>
      <item>
-        <titulo>Animación china en España</titulo>
+        <title>Animación china en España</title>
         <link>https://myopicevilord.github.io/ejemploRSS/html/catalogo-anime-china.html</link>
         <description>Catálogo completo con los estrenos de anime originarios de China.</description>
         <enclosure url="https://myopicevilord.github.io/ejemploRSS/imagenes/abc/A/the-girl-downstairs.png" length="48491" type="image/jpeg"/>
     </item>
          <item>
-        <titulo>Sobre AnimeLog</titulo>
+        <title>Sobre AnimeLog</title>
         <link>https://myopicevilord.github.io/ejemploRSS/html/inscripcion.html</link>
         <description>Información básica y formulario de inscripción de AnimeLog.</description>
         <enclosure url="https://myopicevilord.github.io/ejemploRSS/imagenes/logotipo-transparente-negro.png" length="48491" type="image/jpeg"/>
